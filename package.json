@@ -1,5 +1,5 @@
 {
-  "name": "drs-wecom-pos",
+  "name": "taro-demo",
   "version": "1.0.0",
   "private": true,
   "description": "",
@@ -72,8 +72,10 @@
     "@tarojs/runtime": "3.6.24",
     "@tarojs/shared": "3.6.24",
     "@tarojs/taro": "3.6.24",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-router-dom": "^6.22.3",
     "tsconfig-paths-webpack-plugin": "^4.1.0"
   },
   "devDependencies": {

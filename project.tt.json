@@ -1,6 +1,6 @@
 {
   "miniprogramRoot": "./",
-  "projectname": "taro-mic",
+  "projectname": "taro-demo",
   "appid": "testAppId",
   "setting": {
     "es6": false,

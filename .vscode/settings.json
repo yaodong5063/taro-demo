@@ -1,0 +1,43 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.options": {
+    "extensions": [".js", ".vue", ".ts", ".tsx"]
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "cSpell.words": [
+    "ahooks",
+    "Caculate",
+    "carmodel",
+    "carseries",
+    "Cascader",
+    "cmaps",
+    "coms",
+    "Coor",
+    "CUSTOMERCARD",
+    "Edoc",
+    "GETWAY",
+    "inputarea",
+    "loginbanner",
+    "MYCUSTOMER",
+    "MYTASK",
+    "NEWRELAC",
+    "POSPCN",
+    "PVMS",
+    "qrcode",
+    "sockjs",
+    "stompjs",
+    "tequipment",
+    "vguid",
+    "tarojs"
+  ],
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

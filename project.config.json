@@ -1,6 +1,7 @@
 {
   "appid": "touristappid",
   "compileType": "miniprogram",
+  "miniprogramRoot": "dist/",
   "libVersion": "3.2.3",
   "packOptions": {
     "ignore": [],
@@ -25,5 +26,6 @@
     "tabIndent": "insertSpaces",
     "tabSize": 2
   },
-  "projectname": "drs-wecom-pos"
+  "projectname": "taro-demo",
+  "srcMiniprogramRoot": "dist/"
 }
